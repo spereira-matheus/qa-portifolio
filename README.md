@@ -70,8 +70,8 @@ High-quality bug reports demonstrating clear reproduction steps, severity assess
 
 ## Contact & Professional Links
 
-- GitHub: https://github.com/msantos-mix
-- LinkedIn: *(add your LinkedIn profile here)*
+- GitHub: https://github.com/spereira-matheus/
+- LinkedIn: https://www.linkedin.com/in/spereiramatheus/
 
 ---
 
