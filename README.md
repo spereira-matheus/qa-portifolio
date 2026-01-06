@@ -29,7 +29,7 @@ My approach focuses on risk analysis, critical user journeys, early defect detec
 
 ### ▶ Playwright E2E Automation Framework  
 End-to-End automation framework built with Playwright and JavaScript, focusing on critical user flows, edge cases, and maintainable architecture.  
-🔗 [playwright-e2e-framework](./playwright-e2e-framework)
+🔗 [playwright-e2e-framework](https://github.com/spereira-matheus/playwright-e2e-framework)
 
 ---
 
