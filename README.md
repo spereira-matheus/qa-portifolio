@@ -2,7 +2,7 @@
 
 ## Senior QA Engineer | Playwright (JavaScript) | API & Performance Testing
 
-Senior QA Engineer with strong experience in quality assurance for web-based applications, focused on building reliable, scalable, and risk-aware testing strategies. Proven background in End-to-End automation using Playwright, API testing, and performance testing, working closely with cross-functional teams in agile environments.
+Senior QA Engineer with strong experience in quality assurance for web-based applications, focused on building reliable, scalable, and risk-aware testing strategies. Proven background in End-to-End automation using Playwright, API testing, and performance testing, working closely with cross-functional teams in agile environments and leveraging CI-driven quality gates to support reliable releases.
 
 ---
 
@@ -22,7 +22,7 @@ Senior QA Engineer with strong experience in quality assurance for web-based app
 
 Quality is not about executing test cases — it is about protecting the product.
 
-My approach prioritizes risk analysis, critical user journeys, early defect detection, and clear communication with engineering and product teams to ensure reliable and predictable releases.
+My approach prioritizes risk analysis, critical user journeys, early defect detection, and objective quality signals through automation and CI pipelines, enabling predictable and confident releases.
 
 ---
 
@@ -32,10 +32,10 @@ My approach prioritizes risk analysis, critical user journeys, early defect dete
 Production-ready End-to-End automation framework built with Playwright and JavaScript, focused on critical user flows, edge cases, and maintainable architecture.
 
 **Highlights:**
-- Tagged test suites (@smoke, @regression, @edge)
+- Tagged test suites (`@smoke`, `@regression`, `@edge`)
 - Authentication handled via generated storage state
 - Smoke tests executed automatically in CI
-- HTML reports available as CI artifacts
+- HTML reports generated as CI artifacts
 
 🔗 https://github.com/spereira-matheus/playwright-e2e-framework
 
@@ -55,7 +55,14 @@ API testing suite built with Playwright Test `request` fixture, covering smoke t
 ---
 
 ### ▶ Performance Testing with JMeter  
-Performance testing scenarios using Apache JMeter, including load and stress testing strategies, metrics analysis, and result interpretation focused on real-world system behavior.
+Performance testing framework using Apache JMeter to validate baseline performance, steady load behavior, and system limits.
+
+**Highlights:**
+- Smoke and Load performance tests executed automatically in CI
+- Stress tests executed manually via workflow trigger
+- CI quality gates based on error rate and p95 latency
+- HTML performance reports generated as CI artifacts
+- Clear separation between fast feedback and heavy performance testing
 
 🔗 https://github.com/spereira-matheus/performance-testing-jmeter
 
@@ -93,4 +100,4 @@ High-quality bug reports demonstrating clear reproduction steps, severity assess
 
 ---
 
-> This portfolio showcases practical, real-world approaches to software quality, emphasizing reliability, maintainability, and risk mitigation rather than tutorial-style examples.
+> This portfolio showcases practical, CI-driven approaches to software quality, emphasizing reliability, maintainability, and risk mitigation rather than tutorial-style examples.
