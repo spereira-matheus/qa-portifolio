@@ -8,6 +8,7 @@ Main projects:
 - Playwright E2E Automation Framework
 - Playwright API Testing
 - Performance Testing with JMeter
+- Postman API Testing
 
 GitHub: https://github.com/spereira-matheus  
 LinkedIn: https://www.linkedin.com/in/spereiramatheus/
